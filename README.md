@@ -11,6 +11,8 @@ and copy the output to the `hash` field for the mod in `mainifest.json`
 
 #### - Fork Update [By Fork Creator]
 Regarding the quest book not showing quests.. take the DefaultQuests.json from the previous version on the main branch and copy it into the betterquesting config folder.. should fix the issue
+{Edit}
+Nevermind.. it's now sorted in the release v3.0.1
 
 ## Credits
 Thanks to the whole GTCEu team for making this awesome mod  
