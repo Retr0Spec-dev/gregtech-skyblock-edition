@@ -10,7 +10,7 @@ To update external mods, you need to download the updated version and run `pytho
 and copy the output to the `hash` field for the mod in `mainifest.json`
 
 #### - Fork Update [By Fork Creator]
-Regarding the quest book not showing quests.. take the DefaultQuest.json from the previous version on the main branch and copy it into the betterquesting config folder.. should fix the issue
+Regarding the quest book not showing quests.. take the DefaultQuests.json from the previous version on the main branch and copy it into the betterquesting config folder.. should fix the issue
 
 ## Credits
 Thanks to the whole GTCEu team for making this awesome mod  
